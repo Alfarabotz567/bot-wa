@@ -1,0 +1,20 @@
+{
+  "thumb": "https://telegra.ph/file/f9b2ed3ff30d538f086ae.jpg",
+  "namebot": "WhatsApp Bot",
+  "botNumber": "79303809375@s.whatsapp.net",
+  "owner": ["6285752765133@s.whatsapp.net"],
+  "instagram": "https://instagram.com/",
+  "author": "Yntkts",
+  "session": "session",
+  "email": "itheknow19@gmail.com",
+  "self": true,
+  "limit": { "limitUser": 30, "gameLimitUser": 10, "gameLimitPremium": 30 },
+  "packInfo":{
+    "packname": "WhatsApp Bot",
+    "author": "Beta ✓"
+  },
+  "ignore": {
+		"directory": ["umum"]
+	},
+	"timezone": "Asia/Jakarta"
+}
